@@ -1,0 +1,11 @@
+@import '../../components/ImageElement/ImageElement.scss';
+
+.app {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+
+  .element-wrapper {
+    position: absolute;
+  }
+}

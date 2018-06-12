@@ -1,0 +1,13 @@
+.image-element img {
+  width: 100px;
+  height: auto;
+  transform: translate(-50%, -100%); }
+
+.app {
+  width: 100vw;
+  height: 100vh;
+  position: relative; }
+  .app .element-wrapper {
+    position: absolute; }
+
+/*# sourceMappingURL=App.css.map */
